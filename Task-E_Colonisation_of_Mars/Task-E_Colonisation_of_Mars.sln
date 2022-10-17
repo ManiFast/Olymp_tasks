@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task-E_Colonisation_of_Mars", "Task-E_Colonisation_of_Mars\Task-E_Colonisation_of_Mars.vcxproj", "{B5006202-17DC-4F08-9A40-582B5F94B370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5006202-17DC-4F08-9A40-582B5F94B370}.Debug|x64.ActiveCfg = Debug|x64
+		{B5006202-17DC-4F08-9A40-582B5F94B370}.Debug|x64.Build.0 = Debug|x64
+		{B5006202-17DC-4F08-9A40-582B5F94B370}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5006202-17DC-4F08-9A40-582B5F94B370}.Debug|x86.Build.0 = Debug|Win32
+		{B5006202-17DC-4F08-9A40-582B5F94B370}.Release|x64.ActiveCfg = Release|x64
+		{B5006202-17DC-4F08-9A40-582B5F94B370}.Release|x64.Build.0 = Release|x64
+		{B5006202-17DC-4F08-9A40-582B5F94B370}.Release|x86.ActiveCfg = Release|Win32
+		{B5006202-17DC-4F08-9A40-582B5F94B370}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB03BEB-4652-4013-A331-0055C277E841}
+	EndGlobalSection
+EndGlobal
